@@ -11,11 +11,11 @@ content:
 
 # CCO-290
 ## Curso de Manejo de Contenido Web
-![Text in the Image](plush-design-studio-483666-unsplash2.jpg)
+![](plush-design-studio-483666-unsplash2.jpg)
 
 
 [Photo by Plush Design Studio on Unsplash](https://unsplash.com/photos/l3N9Q27zULw)
 # **Hacerca del curso:**
-
+[(plush-design-studio-483666-unsplash2.jpg)](http://cco290.odysseyport.com)
 
 ![](gowEarth%202.png)
