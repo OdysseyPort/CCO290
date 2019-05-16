@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: 'plush-design-studio-483666-unsplash2.jpg,gowEarth 2.png'
+media_order: Sagrado-corazón-de-Puerto-Rico.jpg
 body_classes: 'title-center title-h1h2'
 content:
     items: '@self.modular'
@@ -16,6 +16,6 @@ content:
 
 [Photo by Plush Design Studio on Unsplash](https://unsplash.com/photos/l3N9Q27zULw)
 # **Hacerca del curso:**
-[(plush-design-studio-483666-unsplash2.jpg)](http://cco290.odysseyport.com)
+[(Sagrado-corazo%CC%81n-de-Puerto-Rico.jpg)](http://cco290.odysseyport.com)
 
 ![](gowEarth%202.png)
