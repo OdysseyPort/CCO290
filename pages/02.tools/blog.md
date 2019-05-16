@@ -1,8 +1,15 @@
 ---
 title: Tools
 media_order: plush-design-studio-483666-unsplash2.jpg
-hero_classes: ''
-hero_image: ''
+content:
+    items:
+        - '@self.modular'
+    limit: 5
+    order:
+        by: folder
+        dir: asc
+    pagination: true
+    url_taxonomy_filters: true
 ---
 
 ![](plush-design-studio-483666-unsplash2.jpg)
