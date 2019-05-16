@@ -1,14 +1,15 @@
 ---
 title: Tool
+hero_classes: ''
+hero_image: ''
 content:
-    items:
-        - '@self.children'
-    limit: 5
+    items: '- ''@self.children'''
+    limit: '5'
     order:
         by: date
         dir: desc
-    pagination: true
-    url_taxonomy_filters: true
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 ![](plush-design-studio-483666-unsplash2.jpg)
