@@ -1,5 +1,5 @@
 ---
-title: Tool
+title: Tools
 media_order: plush-design-studio-483666-unsplash2.jpg
 hero_classes: ''
 hero_image: ''
@@ -13,12 +13,13 @@ content:
     url_taxonomy_filters: '1'
 ---
 
+# **Tools**
 ![](plush-design-studio-483666-unsplash2.jpg)
 
 [Photo by Plush Design Studio on Unsplash](https://unsplash.com/photos/l3N9Q27zULw)
 
 
-# **Tools**
+
 
 A continuación un listado de herramientas necesarias para la clase.
 
