@@ -1,6 +1,11 @@
 ---
 title: Home
 media_order: 'plush-design-studio-483666-unsplash2.jpg,gowEarth 2.png'
+content:
+    items: '@self.modular'
+    order:
+        by: ''
+        dir: ''
 body_classes: 'title-center title-h1h2'
 ---
 
