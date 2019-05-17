@@ -20,6 +20,7 @@ content:
 # **Hacerca del curso:**
 
 
+
 ![](567675-how-to-get-started-with-wordpress.jpg)
 
 #### En la clase aprenderás a cómo editar e instalar todo tipo de herramientas necesarias para crear tu propia pagina web dentro de WordPress.
