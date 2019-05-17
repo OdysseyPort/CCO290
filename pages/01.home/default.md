@@ -15,6 +15,8 @@ content:
 
 
 [Photo by Plush Design Studio on Unsplash](https://unsplash.com/photos/l3N9Q27zULw)
+
+===
 # **Hacerca del curso:**
 [![](Sagrado-corazo%CC%81n-de-Puerto-Rico.jpg)](http://cco290.odysseyport.com)
 
