@@ -1,6 +1,6 @@
 ---
 title: Home
-media_order: Sagrado-corazón-de-Puerto-Rico.jpg
+media_order: 'Universidad-Sagrado-Corazon1_Carrusel.jpg,Banner_Ciencia_Computos-1024x320.jpg,567675-how-to-get-started-with-wordpress.jpg'
 body_classes: 'title-center title-h1h2'
 content:
     items: '@self.modular'
@@ -16,7 +16,11 @@ content:
 
 [Photo by Plush Design Studio on Unsplash](https://unsplash.com/photos/l3N9Q27zULw)
 
-===
-# **Hacerca del curso:**
-[![](Sagrado-corazo%CC%81n-de-Puerto-Rico.jpg)](http://cco290.odysseyport.com)
 
+# **Hacerca del curso:**
+
+
+![](567675-how-to-get-started-with-wordpress.jpg)
+
+#### En la clase aprenderás a cómo editar e instalar todo tipo de herramientas necesarias para crear tu propia pagina web dentro de WordPress.
+#### 
